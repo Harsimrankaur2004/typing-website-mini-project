@@ -15,17 +15,18 @@
 ## 🚀 How to Use
 
   1. Clone the repository using Git:
+     ```bash
 
-        git clone https://github.com/Harsimrankaur2004/typing-website-mini-project
+     git clone https://github.com/Harsimrankaur2004/typing-website-mini-project
 
 
-  2. Open index.html in your browser 🌐
+  3. Open index.html in your browser 🌐
 
-  3. Start typing the displayed text ⌨️
+  4. Start typing the displayed text ⌨️
 
-  4. Check your WPM and accuracy 📊
+  5. Check your WPM and accuracy 📊
 
-  5. Click "Restart" to try again 🔄
+  6. Click "Restart" to try again 🔄
 
 ## 🌐 Demo
 
@@ -33,10 +34,11 @@
 
 📸 Screenshot
 
-  <img src="Screenshot.png" alt="Weather App" width="400"/>
+  <img src="screenshot.png" alt="Weather App" width="400"/>
 
 ## License
 
 This project is licensed under the MIT License.
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
