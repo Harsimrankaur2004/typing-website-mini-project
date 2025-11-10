@@ -34,7 +34,7 @@
 
 📸 Screenshot
 
-  <img src="screenshot.png" alt="Weather App" width="400"/>
+  <img src="screenshot.png" alt="Typing Website" width="400"/>
 
 ## License
 
@@ -42,3 +42,4 @@ This project is licensed under the MIT License.
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
